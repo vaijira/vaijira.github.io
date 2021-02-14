@@ -1,0 +1,21 @@
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.flex-item {
+  flex: 40% 0;
+  background: lightblue;
+  padding: 5px;
+  margin-top: 10px;
+  line-height: 150px;
+  line-width: 150px;
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>..:: MULLIGAN ::..</title>
+  <meta name="description" content="World's finance view">
+  <link rel="stylesheet" type="text/css" href="mulligan.css">
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/d3js/5.15.1/d3.min.js"></script>
+  <script type="text/javascript" src="mulligan.js"></script>
+</head>
+
+<body onload="drawResource('assets');drawResource('liabilities');">
+  <h1>Federal reserve assets.</h1>
+  <div style="display: flex; align-items: center; margin-left: 0px; min-height: 33px; font: 10px sans-serif;">
+    <div id="fed-assets-items" style="width: 100%; columns: 180px;"></div>
+  </div>
+  <div id="assets-chart"></div>
+  <h2><a href="tmp/assets.csv" target="_blank" rel="nofollow">Download CSV File asset series in case you want to explore them in a spreadsheet.</a></h2>
+  <h1>Federal reserve liabilities.</h1>
+  <div style="display: flex; align-items: center; margin-left: 0px; min-height: 33px; font: 10px sans-serif;">
+    <div id="fed-liabilities-items" style="width: 100%; columns: 180px;"></div>
+  </div>
+  <div id="liabilities-chart"></div>
+  <h2><a href="tmp/liabilities.csv" target="_blank" rel="nofollow">Download CSV File liabilities series in case you want to explore them in a spreadsheet.</a></h2>
+  <footer><i>Latest update: 14-Feb-2020</i></footer>
+</body>
+
+</html>
+

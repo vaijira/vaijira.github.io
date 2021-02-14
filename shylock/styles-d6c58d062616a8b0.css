@@ -1,0 +1,25 @@
+body {
+    font-family: "Source Sans Pro", sans-serif;
+    -webkit-font-smoothing: subpixel-antialiased;
+    color: #333;
+    background: #f7f7f7;
+    padding-bottom: calc(24px + env(safe-area-inset-bottom));
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.asset_name,
+.asset_auction {
+  margin-top: 10px;
+}
+  
+.asset_name {
+  font-weight: bold;
+}
