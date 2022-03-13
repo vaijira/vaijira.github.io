@@ -1,0 +1,364 @@
+<mxfile host="65bd71144e">
+    <diagram id="XKror50bq6MusZwQ-sXq" name="Value Innovation">
+        <mxGraphModel dx="1306" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="37" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry width="827" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="37" vertex="1">
+                    <mxGeometry width="826.9999999999998" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;h1&gt;The blue ocean strategy reader.&lt;/h1&gt;&lt;p&gt;The iconic articles by the bestselling authors of blue ocean strategy.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;labelBorderColor=none;" parent="37" vertex="1">
+                    <mxGeometry x="184.8678405931418" y="15" width="425.1628205128204" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry y="100" width="827" height="113" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="group" parent="41" vertex="1" connectable="0">
+                    <mxGeometry width="827" height="113" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="45" vertex="1">
+                    <mxGeometry width="827" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="&lt;pre&gt;Value Innovation: The Strategic Logic of High Growth&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" parent="45" vertex="1">
+                    <mxGeometry x="270" y="15" width="250" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-194" value="Value innovation logic" style="html=1;fillColor=#CCCCCC;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=1;whiteSpace=wrap;rounded=0;labelBorderColor=none;" parent="45" vertex="1">
+                    <mxGeometry x="460" y="113" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-193" value="Conventional logic" style="html=1;fillColor=#CCCCCC;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=1;whiteSpace=wrap;rounded=0;labelBorderColor=none;" parent="45" vertex="1">
+                    <mxGeometry x="110" y="113" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-46" value="&lt;div style=&quot;font-size: 14px&quot;&gt;all three plat&lt;span&gt;forms on which value innovation can take place: product, service,&amp;nbsp;&lt;/span&gt;&lt;span&gt;and delivery.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;gradientColor=#ffffff;" parent="45" vertex="1">
+                    <mxGeometry x="44" y="70" width="740" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-181" value="Industries conditions are given." style="html=1;fillColor=#F2931E;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;labelBorderColor=none;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="248" width="340" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-182" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Industry’s conditions can be&amp;nbsp;&lt;span style=&quot;font-size: 14px;&quot;&gt;shaped.&lt;/span&gt;&lt;/div&gt;" style="html=1;fillColor=#F5AB50;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;labelBorderColor=none;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="248" width="340" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-184" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;A company should build competitive&amp;nbsp;&lt;span style=&quot;font-size: 14px;&quot;&gt;advantages. The aim is to beat the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;competition.&lt;/span&gt;&lt;/div&gt;" style="html=1;fillColor=#444444;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;labelBorderColor=none;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="343" width="340" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-185" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Competition is not the&amp;nbsp;&lt;span style=&quot;font-size: 14px;&quot;&gt;benchmark. A company should&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;pursue a quantum leap in value&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;to dominate the&amp;nbsp; market.&lt;/span&gt;&lt;/div&gt;" style="html=1;fillColor=#777777;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;labelBorderColor=none;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="343" width="340" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-187" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;A company should retain and ex&lt;span style=&quot;font-size: 14px;&quot;&gt;pand its customer base through&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;further segmentation and custom&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;ization. It should focus on the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;diﬀerences in what customers value.&lt;/span&gt;&lt;/div&gt;" style="html=1;fillColor=#23445D;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;labelBorderColor=none;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="443" width="340" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-188" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;A value innovator targets the&amp;nbsp;&lt;span style=&quot;font-size: 14px;&quot;&gt;mass of buyers and&amp;nbsp; willingly&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;lets some existing customers&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;go. It focuses on the&amp;nbsp; key&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;commonalities in what&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;customers value.&lt;/span&gt;&lt;/div&gt;" style="html=1;fillColor=#2F5B7C;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;labelBorderColor=none;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="443" width="340" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-190" value="Industry assumptions" style="html=1;fillColor=#CCCCCC;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=1;whiteSpace=wrap;horizontal=0;rounded=0;labelBorderColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="26" y="248" width="70" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-191" value="Strategic focus" style="html=1;fillColor=#CCCCCC;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=1;whiteSpace=wrap;horizontal=0;rounded=0;labelBorderColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="26" y="343" width="70" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-192" value="Customers" style="html=1;fillColor=#CCCCCC;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=1;whiteSpace=wrap;horizontal=0;rounded=0;labelBorderColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="26" y="443" width="70" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-196" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;A company should leverage its&amp;nbsp;&lt;span style=&quot;font-size: 14px;&quot;&gt;existing assets and capabilities.&lt;/span&gt;&lt;/div&gt;" style="html=1;fillColor=#006600;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;labelBorderColor=none;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="538" width="340" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-197" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;A company must not be con&lt;span style=&quot;font-size: 14px;&quot;&gt;strained by what it already has.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;It must ask, What would we do&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;if we were starting anew?&lt;/span&gt;&lt;/div&gt;" style="html=1;fillColor=#009900;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;labelBorderColor=none;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="538" width="340" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-198" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;An industry’s traditional boundaries&amp;nbsp;&lt;span style=&quot;font-size: 14px;&quot;&gt;determine the products and services&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;a company oﬀers. The goal is to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;maximize the value of those oﬀerings.&lt;/span&gt;&lt;/div&gt;" style="html=1;fillColor=#7F00FF;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;labelBorderColor=none;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="633" width="340" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-199" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;A value innovator thinks in&amp;nbsp;&lt;span style=&quot;font-size: 14px;&quot;&gt;terms of the total solution&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;customers seek, even if that&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;takes the company beyond its&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;industry’s traditional oﬀerings.&lt;/span&gt;&lt;/div&gt;" style="html=1;fillColor=#9933FF;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;labelBorderColor=none;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="633" width="340" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-202" value="Assets &amp;amp; capabilities" style="html=1;fillColor=#CCCCCC;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=1;whiteSpace=wrap;horizontal=0;rounded=0;labelBorderColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="26" y="538" width="70" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-203" value="Product &amp;amp; service offerings" style="html=1;fillColor=#CCCCCC;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=1;whiteSpace=wrap;horizontal=0;rounded=0;labelBorderColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="26" y="633" width="70" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-254" value="" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;fillColor=#10739E;strokeColor=none;shadow=1;labelBorderColor=none;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="21" y="750" width="800" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-256" value="&lt;div&gt;&lt;b&gt;Which of the factors that&amp;nbsp;&lt;/b&gt;&lt;b&gt;our industry takes for granted should be eliminated?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;It forces managers to consider whether the fac&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;tors that companies compete on actually deliver value to consum&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;ers.&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Often those factors are taken for&amp;nbsp; granted, even though they have&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;no value or even detract from value. Sometimes what buyers value&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;changes fundamentally, but companies that are&amp;nbsp; focused on benchmark&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;marking one another do not act on (or even perceive) the change.&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;align=left;html=1;labelBorderColor=none;" parent="UmiUlXqRNo2641iHj8_Y-254" vertex="1">
+                    <mxGeometry width="770" height="80" relative="1" as="geometry">
+                        <mxPoint x="26" y="3" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-259" value="" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;fillColor=#F2931E;strokeColor=none;shadow=1;labelBorderColor=none;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="21" y="847" width="800" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-261" value="&lt;div&gt;&lt;b&gt;Which factors&amp;nbsp;&lt;/b&gt;&lt;b&gt;should be reduced well below the industry’s standard?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;It forces managers to determine whether prod&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;ucts and services have been overdesigned in the race to match and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;beat the competition.&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;align=left;html=1;labelBorderColor=none;" parent="UmiUlXqRNo2641iHj8_Y-259" vertex="1">
+                    <mxGeometry width="770" height="80" relative="1" as="geometry">
+                        <mxPoint x="26" y="3" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-264" value="" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;fillColor=#AE4132;strokeColor=none;shadow=1;labelBorderColor=none;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="21" y="943" width="800" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-266" value="&lt;div&gt;&lt;b&gt;Which fac&lt;/b&gt;&lt;b&gt;tors should be raised well above the industry’s standard?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;It pushes managers to un&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;cover and eliminate the compromises their industry forces custom&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;ers to make.&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;align=left;html=1;labelBorderColor=none;" parent="UmiUlXqRNo2641iHj8_Y-264" vertex="1">
+                    <mxGeometry width="770" height="80" relative="1" as="geometry">
+                        <mxPoint x="26" y="3" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-269" value="" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;fillColor=#23445D;strokeColor=none;shadow=1;labelBorderColor=none;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="21" y="1040.0002298850575" width="800" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="UmiUlXqRNo2641iHj8_Y-271" value="&lt;div&gt;&lt;b&gt;Which&amp;nbsp;&lt;/b&gt;&lt;b&gt;factors should be created that the industry has never offered?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;It helps managers break out of the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;industry’s established boundaries to discover entirely new sources&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;of value for consumers.&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;align=left;html=1;labelBorderColor=none;" parent="UmiUlXqRNo2641iHj8_Y-269" vertex="1">
+                    <mxGeometry width="770" height="80" relative="1" as="geometry">
+                        <mxPoint x="26" y="3" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="5belhnY0x3rtHLcJ9dL9" name="Fair Process">
+        <mxGraphModel dx="1306" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="99Kv8rXLUpl-ud_xyQJX-0"/>
+                <mxCell id="99Kv8rXLUpl-ud_xyQJX-1" parent="99Kv8rXLUpl-ud_xyQJX-0"/>
+                <mxCell id="5Y3rx6xSDvR-sf6mQNY7-0" value="" style="group" vertex="1" connectable="0" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry width="827" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Y3rx6xSDvR-sf6mQNY7-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="5Y3rx6xSDvR-sf6mQNY7-0">
+                    <mxGeometry width="826.9999999999998" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Y3rx6xSDvR-sf6mQNY7-2" value="&lt;h1&gt;The blue ocean strategy reader.&lt;/h1&gt;&lt;p&gt;The iconic articles by the bestselling authors of blue ocean strategy.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;labelBorderColor=none;" vertex="1" parent="5Y3rx6xSDvR-sf6mQNY7-0">
+                    <mxGeometry x="184.8678405931418" y="15" width="425.1628205128204" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Y3rx6xSDvR-sf6mQNY7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry y="100" width="827" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Y3rx6xSDvR-sf6mQNY7-5" value="" style="edgeStyle=none;html=1;" edge="1" parent="99Kv8rXLUpl-ud_xyQJX-1" source="5Y3rx6xSDvR-sf6mQNY7-4" target="5Y3rx6xSDvR-sf6mQNY7-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5Y3rx6xSDvR-sf6mQNY7-4" value="&lt;pre&gt;Fair Process: Managing in the Knowledge economy.&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" vertex="1" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="270" y="115" width="250" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="EyBwKLkI1KSpOUgPY465-6" value="&lt;div style=&quot;font-size: 14px&quot;&gt;The three principles of fair process.&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;gradientColor=#ffffff;" vertex="1" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="43.5" y="170" width="740" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="cYLmHkmDO-brcpgHSipX-10" value="" style="group" vertex="1" connectable="0" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="8.5" y="210" width="810" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="cYLmHkmDO-brcpgHSipX-0" value="Engagement&lt;br&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Involving individuals in the decisions that&amp;nbsp;affect them by asking for their input and allowing them to refute the&amp;nbsp;&lt;/font&gt;&lt;span&gt;merits of one another’s ideas and assumptions. Engagement communicates management’s respect for&amp;nbsp; individuals and their ideas. Encouraging refutation sharpens everyone’s thinking and builds collective&amp;nbsp;wisdom. Engagement results in better decisions by management and&amp;nbsp;greater commitment from all&amp;nbsp; nvolved in executing those decisions.&lt;/span&gt;&lt;/div&gt;" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#64BBE2;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="cYLmHkmDO-brcpgHSipX-10">
+                    <mxGeometry x="30" y="10" width="780" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="cYLmHkmDO-brcpgHSipX-1" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="cYLmHkmDO-brcpgHSipX-10">
+                    <mxGeometry width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="cYLmHkmDO-brcpgHSipX-11" value="" style="group" vertex="1" connectable="0" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="9" y="303" width="810" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="cYLmHkmDO-brcpgHSipX-2" value="Explanation&lt;br&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Everyone involved and affected should&amp;nbsp;&lt;/font&gt;&lt;span&gt;understand why final decisions are made as they are. An explana&lt;/span&gt;&lt;span&gt;tion of the thinking that underlies decisions makes people confident&amp;nbsp;&lt;/span&gt;&lt;span&gt;that managers have considered their opinions and have made those&amp;nbsp;&lt;/span&gt;&lt;span&gt;decisions impartially in the overall interests of the company. An ex&lt;/span&gt;&lt;span&gt;planation allows employees to trust managers’ intentions even if&amp;nbsp;&lt;/span&gt;&lt;span&gt;their own ideas have been rejected. It also serves as a powerful feed&lt;/span&gt;&lt;span&gt;back loop that enhances learning.&lt;/span&gt;&lt;/div&gt;" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F8C382;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="cYLmHkmDO-brcpgHSipX-11">
+                    <mxGeometry x="30" y="10" width="780" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="cYLmHkmDO-brcpgHSipX-3" value="2" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#F2931E;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="cYLmHkmDO-brcpgHSipX-11">
+                    <mxGeometry width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="cYLmHkmDO-brcpgHSipX-12" value="" style="group" vertex="1" connectable="0" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="9" y="390" width="810" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="cYLmHkmDO-brcpgHSipX-4" value="Expectation&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Everyone involved and affected should&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;understand why final decisions are made as they are. An explana&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;tion of the thinking that underlies decisions makes people&amp;nbsp; confident&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;that managers have considered their opinions and have made those&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;decisions impartially in the overall interests of the company. An ex&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;planation allows employees to trust managers’ intentions even if&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;their own ideas have been rejected. It also serves as a powerful feed&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;back loop that enhances learning.&lt;/span&gt;&lt;/div&gt;" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F08E81;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="cYLmHkmDO-brcpgHSipX-12">
+                    <mxGeometry x="30" y="10" width="780" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="cYLmHkmDO-brcpgHSipX-5" value="3" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#AE4132;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="cYLmHkmDO-brcpgHSipX-12">
+                    <mxGeometry width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-1" value="&lt;h3&gt;Complementary paths to performance&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="230" y="520" width="440" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-15" value="" style="group" vertex="1" connectable="0" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="200" y="640" width="210" height="490" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-0" value="&lt;div&gt;&lt;b&gt;Traditional tools&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Resource allocation&lt;/div&gt;&lt;div&gt;Economic incentives&lt;/div&gt;&lt;div&gt;Organizational structure&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="s5SsD3RxZeXZSArd1YJy-15">
+                    <mxGeometry width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-2" value="&lt;div&gt;&lt;b&gt;Outcome satisfaction&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;“I got what I deserved.”&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="s5SsD3RxZeXZSArd1YJy-15">
+                    <mxGeometry y="133" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-3" value="" style="edgeStyle=none;html=1;fontSize=12;" edge="1" parent="s5SsD3RxZeXZSArd1YJy-15" source="s5SsD3RxZeXZSArd1YJy-0" target="s5SsD3RxZeXZSArd1YJy-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-5" value="&lt;div&gt;&lt;b&gt;Compulsory cooperation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;“I’ll do what I’m told.”&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="s5SsD3RxZeXZSArd1YJy-15">
+                    <mxGeometry y="267" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-7" value="" style="edgeStyle=none;html=1;fontSize=12;" edge="1" parent="s5SsD3RxZeXZSArd1YJy-15" source="s5SsD3RxZeXZSArd1YJy-2" target="s5SsD3RxZeXZSArd1YJy-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-6" value="&lt;b&gt;Meet expectations&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="s5SsD3RxZeXZSArd1YJy-15">
+                    <mxGeometry y="400" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-4" value="" style="edgeStyle=none;html=1;fontSize=12;" edge="1" parent="s5SsD3RxZeXZSArd1YJy-15" source="s5SsD3RxZeXZSArd1YJy-5" target="s5SsD3RxZeXZSArd1YJy-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-16" value="" style="group" vertex="1" connectable="0" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="550" y="640" width="210" height="490" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-9" value="&lt;div&gt;&lt;b&gt;Fair process&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Engagement&lt;/div&gt;&lt;div&gt;Explanation&lt;/div&gt;&lt;div&gt;Expectation clarity&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="s5SsD3RxZeXZSArd1YJy-16">
+                    <mxGeometry width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-11" value="&lt;div&gt;&lt;b&gt;Trust and commitment&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;“I feel my opinion counts.”&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="s5SsD3RxZeXZSArd1YJy-16">
+                    <mxGeometry y="133" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-8" value="" style="edgeStyle=none;html=1;fontSize=12;" edge="1" parent="s5SsD3RxZeXZSArd1YJy-16" source="s5SsD3RxZeXZSArd1YJy-9" target="s5SsD3RxZeXZSArd1YJy-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-13" value="&lt;div&gt;&lt;b&gt;Voluntary cooperation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;“I’ll go beyond the call&amp;nbsp;&lt;span&gt;of duty.”&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontStyle=0" vertex="1" parent="s5SsD3RxZeXZSArd1YJy-16">
+                    <mxGeometry y="267" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-10" value="" style="edgeStyle=none;html=1;fontSize=12;" edge="1" parent="s5SsD3RxZeXZSArd1YJy-16" source="s5SsD3RxZeXZSArd1YJy-11" target="s5SsD3RxZeXZSArd1YJy-13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-14" value="&lt;div&gt;&lt;b&gt;Exceed expectations&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Self-initiated&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="s5SsD3RxZeXZSArd1YJy-16">
+                    <mxGeometry y="400" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-12" value="" style="edgeStyle=none;html=1;fontSize=12;" edge="1" parent="s5SsD3RxZeXZSArd1YJy-16" source="s5SsD3RxZeXZSArd1YJy-13" target="s5SsD3RxZeXZSArd1YJy-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-17" value="&lt;h4&gt;Management&amp;nbsp;tool&lt;/h4&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=middle;horizontal=1;" vertex="1" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="60" y="660" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-18" value="&lt;h4&gt;Attitude&lt;/h4&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=middle;horizontal=1;" vertex="1" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="60" y="797" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-19" value="&lt;h4&gt;Behavior&lt;/h4&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=middle;horizontal=1;" vertex="1" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="60" y="908" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-20" value="&lt;h4&gt;Performance&lt;/h4&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=middle;horizontal=1;" vertex="1" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="60" y="1060" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-21" value="&lt;h4&gt;Distributive justice&lt;/h4&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="240" y="570" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="s5SsD3RxZeXZSArd1YJy-22" value="&lt;h4&gt;Procedural justice&lt;/h4&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="99Kv8rXLUpl-ud_xyQJX-1">
+                    <mxGeometry x="590" y="570" width="120" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="_zz9PP0EY75qeTgbu7q2" name="Creating new market space">
+        <mxGraphModel dx="1306" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="lqC5nZJ7kgrPv43OUAhS-0"/>
+                <mxCell id="lqC5nZJ7kgrPv43OUAhS-1" parent="lqC5nZJ7kgrPv43OUAhS-0"/>
+                <mxCell id="3bmYEDjavb7aDRLsaRTv-0" value="" style="group" vertex="1" connectable="0" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry width="827" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="3bmYEDjavb7aDRLsaRTv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="3bmYEDjavb7aDRLsaRTv-0">
+                    <mxGeometry width="826.9999999999998" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="3bmYEDjavb7aDRLsaRTv-2" value="&lt;h1&gt;The blue ocean strategy reader.&lt;/h1&gt;&lt;p&gt;The iconic articles by the bestselling authors of blue ocean strategy.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;labelBorderColor=none;" vertex="1" parent="3bmYEDjavb7aDRLsaRTv-0">
+                    <mxGeometry x="184.8678405931418" y="15" width="425.1628205128204" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="3bmYEDjavb7aDRLsaRTv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry y="100" width="827" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3bmYEDjavb7aDRLsaRTv-4" value="" style="edgeStyle=none;html=1;" edge="1" parent="lqC5nZJ7kgrPv43OUAhS-1" source="3bmYEDjavb7aDRLsaRTv-5" target="3bmYEDjavb7aDRLsaRTv-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3bmYEDjavb7aDRLsaRTv-5" value="&lt;pre&gt;Creating new market space.&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="270" y="115" width="250" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-0" value="&lt;h3&gt;Shifting the focus of strategy&lt;/h3&gt;&lt;h3&gt;&lt;br&gt;From head-to-head competition to creating new market space&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="160" y="170" width="480" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-1" value="&lt;b&gt;The conventional&lt;br&gt;boundaries of&lt;br&gt;competition&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="55" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-2" value="&lt;b&gt;Head-to-head&lt;br&gt;competition&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="294" y="290" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-3" value="&lt;b&gt;Creating new market&lt;br&gt;space&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="560" y="290" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-4" value="&lt;b&gt;Industry&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="78" y="395" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-5" value="&lt;b&gt;Strategic group&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="58" y="485" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-6" value="&lt;b&gt;Buyer group&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="68" y="585" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-7" value="&lt;b&gt;Scope of product&lt;br&gt;and service&lt;br&gt;oﬀerings&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="63" y="685" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-8" value="&lt;b&gt;Functional-&lt;br&gt;emotional&lt;br&gt;orientation of&lt;br&gt;an industry&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="68" y="789" width="90" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-9" value="&lt;b&gt;Time&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="88" y="910" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-14" style="edgeStyle=none;html=1;fontSize=12;" edge="1" parent="lqC5nZJ7kgrPv43OUAhS-1" source="m-q1leqjbXA9hRbr10xa-10" target="m-q1leqjbXA9hRbr10xa-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-10" value="Focuses on rivals within&#10;its industry" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="270" y="390" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-11" value="Looks across substitute&#10;industries" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="560" y="390" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-17" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="lqC5nZJ7kgrPv43OUAhS-1" source="m-q1leqjbXA9hRbr10xa-15" target="m-q1leqjbXA9hRbr10xa-16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-15" value="Focuses on competitive&#10;position within strategic&#10;group" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="270" y="470" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-16" value="Looks across strategic&#10;groups within its&#10;industry" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="560" y="470" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-20" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="lqC5nZJ7kgrPv43OUAhS-1" source="m-q1leqjbXA9hRbr10xa-18" target="m-q1leqjbXA9hRbr10xa-19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-18" value="Focuses on better&#10;serving the buyer group" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="264" y="575" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-19" value="Redeﬁnes the buyer group&#10;of the industry" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="560" y="575" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-23" style="edgeStyle=none;html=1;entryX=-0.062;entryY=0.556;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="lqC5nZJ7kgrPv43OUAhS-1" source="m-q1leqjbXA9hRbr10xa-21" target="m-q1leqjbXA9hRbr10xa-22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-21" value="Focuses on maximizing&#10;the value of product&#10;and service oﬀerings&#10;within the bounds of its&#10;industry" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="264" y="670" width="150" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-22" value="Looks across to com-&#10;plementary product and&#10;service oﬀerings that go&#10;beyond the bounds of its&#10;industry" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="560" y="663" width="160" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-26" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="lqC5nZJ7kgrPv43OUAhS-1" source="m-q1leqjbXA9hRbr10xa-24" target="m-q1leqjbXA9hRbr10xa-25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-24" value="Focuses on improving&#10;price-performance in&#10;line with the functional-&#10;emotional orientation of&#10;its industry" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="270" y="784" width="150" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-25" value="Rethinks the functional-&#10;emotional orientation of&#10;its industry" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="560" y="799" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-29" style="edgeStyle=none;html=1;fontSize=12;" edge="1" parent="lqC5nZJ7kgrPv43OUAhS-1" source="m-q1leqjbXA9hRbr10xa-27" target="m-q1leqjbXA9hRbr10xa-28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-27" value="Focuses on adapting to&#10;external trends as they&#10;occur" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="270" y="910" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-28" value="Participates in shaping&#10;external trends over time" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry x="555" y="920" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-30" value="" style="endArrow=none;html=1;fontSize=12;" edge="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="10" y="350" as="sourcePoint"/>
+                        <mxPoint x="760" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="m-q1leqjbXA9hRbr10xa-31" value="" style="endArrow=none;html=1;fontSize=12;" edge="1" parent="lqC5nZJ7kgrPv43OUAhS-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="10" y="270" as="sourcePoint"/>
+                        <mxPoint x="760" y="270" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
